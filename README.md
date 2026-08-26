@@ -1,2 +1,2 @@
-# HDL-Bits-Solutions-Verilog-
-These are my solutions to the HDL Bits Verilog problem set. 
+# HDL-Bits-Solutions-Verilog
+This repository contains my solutions to the HDL Bits Verilog problem set. 
